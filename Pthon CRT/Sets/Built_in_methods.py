@@ -1,0 +1,15 @@
+set1={1,2,3}
+set2={2,3,4}
+#intersection
+print(set1.intersection(set2))
+#union
+print(set1.union(set2))
+#difference
+print(set1.difference(set2))
+#issubset
+set_a={4,6,8}
+set_b={2,4,6,8,10,12,14,16,18}
+print(set_a.issubset(set_b))
+print(set_b.issubset(set_a))
+print(set_a.issuperset(set_b))
+print(set_b.issuperset(set_a))

@@ -1,0 +1,23 @@
+#         0   1  2  3  4 5  6  7   8
+Num_list=[10,20,30,40,50,60,70,80,90]
+#         -9 -8 -7 -6 -5 -4 -3 -2 -1
+print(Num_list)
+print("Accessing the List Elements using +ve indexing")
+print(Num_list[0])
+print(Num_list[1])
+print(Num_list[2])
+print(Num_list[3])
+print(Num_list[4])
+print(Num_list[6])
+print(Num_list[7])
+print(Num_list[8])
+print("Accessing the List Elements using -ve indexing")
+print(Num_list[-9])
+print(Num_list[-8])
+print(Num_list[-7])
+print(Num_list[-6])
+print(Num_list[-5])
+print(Num_list[-4])
+print(Num_list[-3])
+print(Num_list[-2])
+print(Num_list[-1])

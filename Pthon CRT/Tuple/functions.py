@@ -1,0 +1,10 @@
+Tuple=('C','C++','Java','Python','SQL','No_SQL','HTML','JAVASCRIPT','CSS')
+print(Tuple)
+print("Maximum Number :",max(Tuple))
+print("Minimum Number :",min(Tuple))
+print("Sorted Tuple :",sorted(Tuple))
+print("Reversed Tuple:",Tuple[::-1])
+#Tuples names until 5
+tuple=('Joy','Glory','Susannah','Srujanah','Hi','Helloo')
+print(tuple)
+print(tuple[:5])
